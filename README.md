@@ -1,6 +1,8 @@
 alientube
 =========
 
+[![Join the chat at https://gitter.im/marsivo/alientube](https://badges.gitter.im/marsivo/alientube.svg)](https://gitter.im/marsivo/alientube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Chrome, Firefox and Safari extension that embeds Reddit comments, in your YouTube!  
 [http://alientube.co/](http://alientube.co/)
 
